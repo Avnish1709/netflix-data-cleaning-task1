@@ -16,7 +16,7 @@ As part of the Elevate Labs Data Analyst Internship Task 1, this project demonst
   * Final dataset is cleaned and ready for analysis
 
 ## Files Included
-  *`cleaned_netflix_data_humanized.xlsx` : Cleaned Excel dataset
+  * `cleaned_netflix_data_humanized.xlsx` : Cleaned Excel dataset
   * `README.md` : This is summary file
 
 ##  Dataset Source
