@@ -16,8 +16,11 @@ As part of the Elevate Labs Data Analyst Internship Task 1, this project demonst
   * Final dataset is cleaned and ready for analysis
 
 ## Files Included
-- cleaned_netflix_data.xlsx : Cleaned Excel dataset
-- README.md : This summary file
+  *`cleaned_netflix_data_humanized.xlsx` : Cleaned Excel dataset
+  * `README.md` : This is summary file
 
-## Dataset Source
-- [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+##  Dataset Source
+  * [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+
+
