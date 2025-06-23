@@ -19,6 +19,16 @@ As part of the Elevate Labs Data Analyst Internship Task 1, this project demonst
   * `cleaned_netflix_data_humanized.xlsx` : Cleaned Excel dataset
   * `README.md` : This is summary file
 
+
+## 📁 Files Included
+- `cleaned_netflix_data_humanized.xlsx` → Cleaned Excel dataset
+- `README.md` → This summary file
+
+## Dataset Source
+- [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+[README.md](https://github.com/user-attachments/files/20868399/README.md)
+ile
+
 ##  Dataset Source
   * [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
